@@ -51,7 +51,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitasp98&theme=highcontrast" />
 </a>
 
-
+</details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
