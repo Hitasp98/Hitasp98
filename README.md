@@ -14,7 +14,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 - 🛠 &nbsp; I’m currently working with Nodejs, React, <br />  Mongodb, Javascript.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📫 &nbsp; How to reach me: arminoori52@yahoo.com
 
 ### My Absolute Favorites:
 
