@@ -45,9 +45,13 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitasp98&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<a href="https://github.com/Hitasp98">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hitasp98&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" /></a>
+<a href="https://github.com/Hitasp98">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitasp98&theme=highcontrast" />
+</a>
+
+
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
