@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from azad shahr ghods 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️  🤓.
+I'm a graduated Bachelors's in Computer Science 🎓 from azad shahr ghods 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️  🤓.
 
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
@@ -11,9 +11,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from azad
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, React, <br />  Mongodb, Javascript.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 🛠 &nbsp; I’m currently working with Golang, <br /> .
 - 📫 &nbsp; How to reach me: arminoori52@yahoo.com
 
 ### My Absolute Favorites:
