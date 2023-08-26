@@ -12,7 +12,7 @@ I'm a graduated Bachelors's in Computer Science 🎓 from azad shahr ghods 🏛.
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Golang, <br /> .
-- 📫 &nbsp; How to reach me: arminoori52@yahoo.com
+- 📫 &nbsp; How to reach me: arnoori083@gmail.com
 
 ### My Absolute Favorites:
 
